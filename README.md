@@ -1,0 +1,2 @@
+# DSI-Capstone-Project
+Capstone project of DSI. The dataset contains flight records among US cities during Janaury 2020. I used various classification algorithms to get the feature importances on factors that have impact to predict whether a future flight will be delayed. I also attempted the NLP techniques to calculate the feature importances of features with object datatype to impact the flight delaying.
